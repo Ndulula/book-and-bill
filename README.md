@@ -35,7 +35,7 @@ Book & Bill automates the entire process:
 ## 🚀 Getting Started
 
 ### Backend
-```bash
+
 cd backend
 npm install
 npm run dev
@@ -52,8 +52,7 @@ Ndulula
 
 text
 
-**Then push it:**
-```bash
+Then push it:
 git add README.md
 git commit -m "Add professional README"
 git push origin main
